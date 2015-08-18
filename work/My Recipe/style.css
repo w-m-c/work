@@ -1,0 +1,71 @@
+body {
+	background-color: #66FFFF;
+}
+
+h1 {
+	font-family: sans-serif;
+	font-size: 45px;
+	text-align: center;
+
+}
+
+p {
+	font-size: 30px;
+}
+
+
+span {
+	color:blue;
+
+}
+
+ul {
+	font-size: 20px;
+
+}
+
+#checkbox {
+
+	list-style: none;
+}
+
+ol {
+	font-size: 20px;
+}
+
+img {
+	border-radius: 5px;
+	border: 2px solid;
+	display: block;
+	margin: auto;
+}
+
+div {
+	height: 50px;
+	width:120px;
+	border-color: #6495ED;
+	border-style: dotted;
+	border-radius: 5px;
+	float: right;
+}
+
+table {
+	margin: auto;
+	text-align: right;
+
+
+}
+
+a:link {
+	color:#6600FF;
+
+}
+
+a:hover {
+	color: #CC00FF;
+}
+
+a:visited {
+	color: #660066;
+}
+
